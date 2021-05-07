@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-github-users/static/css/main.b57dee0c.chunk.css",
+    "main.js": "/react-github-users/static/js/main.c0d77c02.chunk.js",
+    "main.js.map": "/react-github-users/static/js/main.c0d77c02.chunk.js.map",
+    "runtime-main.js": "/react-github-users/static/js/runtime-main.76a2c150.js",
+    "runtime-main.js.map": "/react-github-users/static/js/runtime-main.76a2c150.js.map",
+    "static/js/2.205675bf.chunk.js": "/react-github-users/static/js/2.205675bf.chunk.js",
+    "static/js/2.205675bf.chunk.js.map": "/react-github-users/static/js/2.205675bf.chunk.js.map",
+    "index.html": "/react-github-users/index.html",
+    "static/css/main.b57dee0c.chunk.css.map": "/react-github-users/static/css/main.b57dee0c.chunk.css.map",
+    "static/js/2.205675bf.chunk.js.LICENSE.txt": "/react-github-users/static/js/2.205675bf.chunk.js.LICENSE.txt",
+    "static/media/login-img.45d3b74f.svg": "/react-github-users/static/media/login-img.45d3b74f.svg",
+    "static/media/preloader.a6525050.gif": "/react-github-users/static/media/preloader.a6525050.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76a2c150.js",
+    "static/js/2.205675bf.chunk.js",
+    "static/css/main.b57dee0c.chunk.css",
+    "static/js/main.c0d77c02.chunk.js"
+  ]
+}
